@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "screen_saver_name": "Nour Pharmacies Screen Saver",
   "slide_seconds": 10,
   "image_base_url": "https://screensaver.nourpharmacies.com/images/",
@@ -19,9 +19,6 @@
     "013.jpeg",
     "014.jpeg",
     "015.jpeg",
-    "016.jpeg",
-    "017.jpeg",
-    "018.jpeg",
-    "019.jpeg"
+    "016.jpeg"
   ]
 }
